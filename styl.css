@@ -1,0 +1,29 @@
+﻿body { background-color: black;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	
+ }
+
+ p.tekst {
+	text-align:center; 
+	color: white;
+	font-size: 20;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ .center {
+	
+	margin-left: 15%;
+	width: 7%;
+  }
+
+
+
+
+
+
+.licznik{
+position:absolute;
+top:80%;
+}
